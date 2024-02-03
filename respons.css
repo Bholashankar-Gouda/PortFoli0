@@ -1,0 +1,199 @@
+/* TABLET */
+@media only screen and (max-width: 768px) {
+    .nav-brand-img{
+        width: 4rem;
+    }
+
+    .nav-end a{
+        font-size: 1rem;
+        padding: 0 0.6rem;
+    }
+
+    .nav-item a{
+        padding: 0 0.6rem;
+    }
+
+    .btn{
+        font-size: 0.6rem;
+    }
+
+    .title{
+        font-size: 2rem;
+    }
+
+    .coloumn-sc{
+        padding: 0.1;
+    }
+
+    .dot{
+        height: 2.5rem;
+        width: 2.5rem;
+    }
+
+    .head-skill{
+        font-size: 1rem;
+        padding: 0.5rem 0;
+    }
+
+    .skill-des{
+        font-size: 0.8rem;
+        margin-bottom: 0.8rem;
+    }
+
+    .skill{
+        font-size: 0.8rem;
+        margin-top: 0.15rem;
+    }
+
+    .skills{
+        font-size: 0.8rem;
+        margin-bottom: 0;
+    }
+
+    .skill-tool{
+        margin-top: 0.75rem;
+        font-size: 0.8rem;
+    }
+
+    .coloumn-sc ul{
+        font-size: 0.8rem;
+    }
+
+    .fa{
+        font-size: 1rem;
+    }
+
+    .foot-head1 h2{
+        margin: 0.25rem 0;
+        font-size: 0.8rem;
+    } 
+
+    .logo-fot{
+        margin-top: 0.5rem;
+        width: 40px;
+    }
+
+    .logo-per{
+        padding: 0.35rem;
+    }
+
+    .logo-per1 a{
+        padding: 0 0.6rem;
+    }
+
+    .copy{
+        padding: 0.35rem;
+    }
+
+    .is-center{
+        width: 70%;
+    }
+}  
+
+/* MOBILE */
+@media only screen and (max-width: 425px) {
+
+    .hero{
+        padding-top:0rem ;
+    }
+    
+    .nav-brand a{
+        padding: 0 0.6rem;
+    }
+
+    .nav-end a{
+        text-decoration: none;
+    }
+
+    .dev{
+        display: none;
+    }
+
+    .container-nav{
+        margin: 0 0.5rem;
+    }
+
+    .hero-body{
+        padding: 1rem 0;
+    }
+
+    .title{
+        font-size: 1.7rem;
+        text-align: center;
+    }
+
+    .subtitle{
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    .skills-certification{
+        margin-top: 0;
+    }
+
+    .all-skill{
+        grid-template-columns:auto;
+    }
+
+    .is-center{
+        width: 90%;
+    }
+
+    .is-center h1{
+        font-size: 1.2rem;
+    }
+
+    .is-center h3{
+        font-size: 1rem;
+    }
+
+    .has-text-center{
+        height: 40vh;
+    }
+    
+    .copy{
+        font-size: 0.5rem;
+    }
+
+    .pro-head h1{
+        font-size: 0.9rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .pro-head h2{
+        font-size: 0.7rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .pro-head a{
+        font-size: 0.7rem;
+        padding: 0 0.5rem;
+    }
+
+    .grid-container{
+        padding: 0.2rem;
+        grid-template-columns: auto;
+    }
+
+    .p-head{
+        margin-bottom: 1rem;
+    }
+
+    .my-projects{
+        display: none;
+    }
+
+    .project-mobile{
+        display: block;
+        margin-bottom: 2rem;
+    }    
+
+    .container{
+        padding-top: 3rem;
+    }
+
+    .coloumn-sc{
+        margin-bottom: 1rem;
+    }
+
+}
